@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-  ██████╗   ██████╗   ██████╗   ██████╗
- ██╔════╝  ██╔═══██╗  ██╔══██╗  ██╔════╝
- ╚█████╗   ███████║   ██╔══██╗  ╚█████╗
-  ╚═══██╗  ██╔══██║   ██║  ██║   ╚═══██╗
- ██████╔╝  ██║  ██║   ██████╔╝  ██████╔╝
- ╚═════╝   ╚═╝  ╚═╝   ╚═════╝   ╚═════╝
-```
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F05138&width=435&lines=Hi%2C+I'm+Santoshi+%F0%9F%91%8B;iOS+Developer;8%2B+Years+%7C+Toronto+%F0%9F%8D%81" alt="Typing SVG" />
 
 # Hi, I'm Santoshi 👋
 ### iOS Developer · 8+ Years · Toronto, ON 🍁
